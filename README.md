@@ -66,7 +66,8 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) influences trade
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
+   
    ```
 3. Open notebook.ipynb in Jupyter or Google Colab
 4. Run all cells
